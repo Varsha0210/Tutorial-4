@@ -4,4 +4,8 @@
 
 # This is a line added from the feature branch.
 
+
 I am creating a conflict.
+
+I am creating a conflict part 2.
+
